@@ -1,0 +1,5 @@
+﻿  mp4_Json.cpp
+C:\Asisguard\mp4_Json\mp4_Json.cpp(98,24): warning C4129: 'A': unrecognized character escape sequence
+C:\Asisguard\mp4_Json\mp4_Json.cpp(98,24): warning C4129: 'm': unrecognized character escape sequence
+C:\Asisguard\mp4_Json\mp4_Json.cpp(98,24): warning C4129: 'd': unrecognized character escape sequence
+  mp4_Json.vcxproj -> C:\Asisguard\mp4_Json\x64\Debug\mp4_Json.exe

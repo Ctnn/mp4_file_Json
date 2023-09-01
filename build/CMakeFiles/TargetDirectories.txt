@@ -1,0 +1,3 @@
+C:/Asisguard/mp4_Json/build/CMakeFiles/mp4_Json.dir
+C:/Asisguard/mp4_Json/build/CMakeFiles/ALL_BUILD.dir
+C:/Asisguard/mp4_Json/build/CMakeFiles/ZERO_CHECK.dir
